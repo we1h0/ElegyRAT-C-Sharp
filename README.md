@@ -1,4 +1,4 @@
-![Start.png](https://i.loli.net/2020/12/28/a35p7AtMfrDVPKQ.png)
+![ElegyRAT-C-Sharp](https://raw.githubusercontent.com/zhaoweiho/ElegyRAT-C-Sharp/main/Start.png)
 
 # ElegyRAT-C-Sharp
 
