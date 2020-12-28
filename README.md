@@ -44,7 +44,7 @@ The following online servers / resources are used in this project
 
 ### Installation & Deployment
 
-AsyncRAT requires the [.Net Framework](https://dotnet.microsoft.com/download/dotnet-framework/net46) v4 (client) and v4.6+ (server) to run.
+ElegyRAT requires the [.Net Framework](https://dotnet.microsoft.com/download/dotnet-framework/net46) v4 (client) and v4.6+ (server) to run.
 
 ```
 - to compile this project(s) visual studio 2019 or above to is required
