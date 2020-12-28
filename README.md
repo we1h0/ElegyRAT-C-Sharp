@@ -2,6 +2,8 @@
 
 # ElegyRAT-C-Sharp
 
+README English | [中文](README_CN.md)
+
 ElegyRAT is a Remote Access Tool (Be Based On [AsyncRAT](https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp)) designed to remotely monitor and control other computers through a secure encrypted connection.It mainly rewrites the task startup items and individual plug-ins to facilitate bypass AV Static killing and behavior interception.(As of 20201231 Bypass 360sd HuoRong Kaspersky Microsoft defender a series of antivirus software,for learning research only,do not use for illegal purposes.)
 
 # Included projects
