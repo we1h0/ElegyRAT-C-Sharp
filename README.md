@@ -1,4 +1,4 @@
-![ElegyRAT-C-Sharp](https://s3.ax1x.com/2020/12/28/roU6Qf.png)
+![ElegyRAT-C-Sharp](https://s3.ax1x.com/2020/12/28/roaJts.png)
 
 # ElegyRAT-C-Sharp
 
